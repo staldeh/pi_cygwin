@@ -8,7 +8,7 @@ Eclipse CDT
 ===========
 Kepler includes the CDT Cross tools and Remote System Explorer.
 
-RSARTE RTC
+RSARTE RTS
 ==========
 Add these folders to your rsa_rt directory. Create a tc to use this config.
 [This RTS uses the compiler above, hardcoded for C:\cygwin\opt]
